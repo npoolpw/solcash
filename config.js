@@ -15,5 +15,5 @@ var transactionExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchai
 var themeCss = "themes/default-theme.css";
 
 var networkStat = [
-        ["npool.pw/solcoin", "hhttp://ca.npool.pw:2280"]
+        ["npool.pw/solcash", "hhttp://ca.npool.pw:2280"]
 ];
