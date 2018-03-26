@@ -1,10 +1,10 @@
-var api = "http://apihost.com:port";
+var api = "http://ca.npool.pw:2280";
 
-var poolHost = "apihost.com";
+var poolHost = "ca.npool.pw";
 
 var blockExplorer = "http://blockexplorer.pw/coin";
 
-var cryptonatorWidget = ["BTC-USD", "XMR-USD"];
+var cryptonatorWidget = ["BTC-USD"];
 
 var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
 
@@ -15,5 +15,5 @@ var transactionExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchai
 var themeCss = "themes/default-theme.css";
 
 var networkStat = [
-        ["coin.apihost.com", "http://coin.apihost.com:port"]
+        ["npool.pw/solcoin", "hhttp://ca.npool.pw:2280"]
 ];
